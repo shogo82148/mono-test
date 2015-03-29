@@ -12,10 +12,6 @@ namespace monotest
 		{
 		}
 
-		public static void Main ()
-		{
-		}
-
 		void Bar()
 		{
 			Foo (fuga: 20);
